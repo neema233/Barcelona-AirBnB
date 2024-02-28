@@ -174,6 +174,6 @@ Listings Facts:
    it consists of ```calender_datekey```, ```listing_id```, ```calender_date```, ```available```, ```price```, ```minimum_nights```, ```maximum_nights```
 
 ***Modeling***
-![Data Modeling](https://drive.google.com/file/d/1vWTlETPhYhgapJ4q3lJpkj9GkMOiutPc/view?usp=sharing)
+![Data Modeling](https://drive.google.com/file/d/1vWTlETPhYhgapJ4q3lJpkj9GkMOiutPc/view?usp=drive_link)
 
 

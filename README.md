@@ -174,6 +174,6 @@ Listings Facts:
    it consists of ```calender_datekey```, ```listing_id```, ```calender_date```, ```available```, ```price```, ```minimum_nights```, ```maximum_nights```
 
 ***Modeling***
-![Data Modeling](https://github.com/neema233/Barcelona-AirBnB/blob/main/datamodel.png)
+![Data Modeling](https://github.com/neema233/Barcelona-AirBnB/blob/main/schema.png)
 
 
